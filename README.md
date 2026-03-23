@@ -4,7 +4,7 @@ Analysis of cognitive biases using behavioral datasets and interactive experimen
 ## 📂 Project Structure
 - data/ → datasets used for analysis  
 - code/ → Python scripts for each bias  
-- Presentation/ → slides and demo video  
+- Presentation/ → Explanation slides and demo video  
 
 ## 🧠 Biases Covered
 - Wason Selection Task (Confirmation Bias)
